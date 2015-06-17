@@ -1,5 +1,5 @@
 // initWithFrame -CGRect
-// iOS styled
+// iOS styled initWithFrame
 //
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 25311642-0452-454C-BAAD-9D22CB4951FE
