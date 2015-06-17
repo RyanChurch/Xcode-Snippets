@@ -1,4 +1,4 @@
-// initWithFrame -CGRect
+// initWithFrame CGRect
 // iOS styled -initWithFrame
 //
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
